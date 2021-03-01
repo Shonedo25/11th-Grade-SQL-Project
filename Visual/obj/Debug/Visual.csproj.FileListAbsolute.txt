@@ -1,0 +1,47 @@
+F:\SQL Project\Visual\bin\Debug\Visual.exe.config
+F:\SQL Project\Visual\bin\Debug\Visual.exe
+F:\SQL Project\Visual\bin\Debug\Visual.pdb
+F:\SQL Project\Visual\obj\Debug\Visual.Properties.Resources.resources
+F:\SQL Project\Visual\obj\Debug\Visual.csproj.GenerateResource.Cache
+F:\SQL Project\Visual\obj\Debug\Visual.exe
+F:\SQL Project\Visual\obj\Debug\Visual.pdb
+F:\SQL Project\Visual\bin\Debug\SQL Project.exe
+F:\SQL Project\Visual\bin\Debug\SQL Project.pdb
+F:\SQL Project\Visual\obj\Debug\SQL_Project.Form1.resources
+F:\SQL Project\Visual\obj\Debug\SQL_Project.Form2.resources
+F:\SQL Project\Visual\obj\Debug\SQL_Project.start.resources
+F:\SQL Project\Visual\obj\Debug\SQL_Project.Form3.resources
+E:\SQL Project\Visual\bin\Debug\Visual.exe.config
+E:\SQL Project\Visual\obj\Debug\Visual.exe
+E:\SQL Project\Visual\obj\Debug\Visual.pdb
+E:\SQL Project\Visual\bin\Debug\Visual.exe
+E:\SQL Project\Visual\bin\Debug\Visual.pdb
+E:\SQL Project\Visual\bin\Debug\SQL Project.exe
+E:\SQL Project\Visual\bin\Debug\SQL Project.pdb
+E:\SQL Project\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+E:\SQL Project\Visual\obj\Debug\SQL_Project.Form1.resources
+E:\SQL Project\Visual\obj\Debug\SQL_Project.Form2.resources
+E:\SQL Project\Visual\obj\Debug\SQL_Project.Form3.resources
+E:\SQL Project\Visual\obj\Debug\Visual.Properties.Resources.resources
+E:\SQL Project\Visual\obj\Debug\SQL_Project.start.resources
+E:\SQL Project\Visual\obj\Debug\Visual.csproj.GenerateResource.Cache
+G:\SQL Project\Visual\bin\Debug\Visual.exe.config
+G:\SQL Project\Visual\obj\Debug\Visual.exe
+G:\SQL Project\Visual\obj\Debug\Visual.pdb
+G:\SQL Project\Visual\bin\Debug\Visual.exe
+G:\SQL Project\Visual\bin\Debug\Visual.pdb
+G:\SQL Project\Visual\bin\Debug\SQL Project.exe
+G:\SQL Project\Visual\bin\Debug\SQL Project.pdb
+G:\SQL Project\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+G:\SQL Project\Visual\obj\Debug\SQL_Project.Form1.resources
+G:\SQL Project\Visual\obj\Debug\SQL_Project.Form2.resources
+G:\SQL Project\Visual\obj\Debug\SQL_Project.Form3.resources
+G:\SQL Project\Visual\obj\Debug\Visual.Properties.Resources.resources
+G:\SQL Project\Visual\obj\Debug\SQL_Project.start.resources
+G:\SQL Project\Visual\obj\Debug\Visual.csproj.GenerateResource.Cache
+E:\SQL Project\Visual\obj\Debug\SQL_Project.Form4.resources
+F:\SQL Project\Visual\obj\Debug\SQL_Project.Form4.resources
+F:\SQL Project\Visual\bin\Debug\SQL Project.exe.config
+F:\SQL Project\Visual\obj\Debug\Visual.csprojAssemblyReference.cache
+F:\SQL Project\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+F:\SQL Project\Visual\obj\Debug\Visual.csproj.CopyComplete
